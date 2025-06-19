@@ -1,0 +1,3 @@
+#!c:\users\hp\dropbox\pc\desktop\accent\accent_tutor_project\venv\scripts\python.exe
+from numba.pycc import main
+main()
